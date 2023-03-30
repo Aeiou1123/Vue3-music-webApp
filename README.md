@@ -8,7 +8,7 @@
 
 ### 技术栈
 
-[vue: ^3.0.11 (shields.io)](https://img.shields.io/badge/vue-^3.0.11-green)   [vue-router: ^4.0.0-0 (shields.io)](https://img.shields.io/badge/vue--router-^4.0.0--0-yellow)   [vuex: ^4.0.0-0 (shields.io)](https://img.shields.io/badge/vuex-^4.0.0--0-yellow)
+[vue: ^3.0.11 ](https://img.shields.io/badge/vue-^3.0.11-green)      [vue-router: ^4.0.0-0 ](https://img.shields.io/badge/vue--router-^4.0.0--0-yellow)        [vuex: ^4.0.0-0 ](https://img.shields.io/badge/vuex-^4.0.0--0-yellow)         [axios: ^0.21.1 ](https://img.shields.io/badge/axios-^0.21.1-yellow)
 
 轮播图使用了BetterScroll插件。地址：https://better-scroll.github.io/docs/zh-CN/guide/     图片懒加载使用了vue3-lazy插件。地址：https://github.com/ustbhuangyi/vue3-lazy
 
