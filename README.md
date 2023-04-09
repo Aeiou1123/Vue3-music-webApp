@@ -182,12 +182,12 @@ vue3-music-webapp
 
 ## 效果展示
 
-- [recommend.png](https://postimg.cc/87TLV5Vy)
-- [search.png](https://postimg.cc/v1kzMshc)
-- [singer.png](https://postimg.cc/Xp4gnxfc)
-- [toplist.png](https://postimg.cc/ZvZ6KKdK)
-- [singerdetail.png](https://postimg.cc/0MC0SwxJ)
-- [usercenter.png](https://postimg.cc/56rq81cp)
+- 推荐页面：[recommend.png](https://gitee.com/Aeiou-YuShang/img/raw/master/recommend.png)
+- 歌手页面：[singer.png](https://gitee.com/Aeiou-YuShang/img/raw/master/singer.png)
+- 排行页面：[toplist.png](https://gitee.com/Aeiou-YuShang/img/raw/master/toplist.png)
+- 搜索页面：[search.png](https://gitee.com/Aeiou-YuShang/img/raw/master/search.png)
+- 歌手详情页面：[singerdetail.png](https://gitee.com/Aeiou-YuShang/img/raw/master/singerdetail.png)
+- 用户中心页面：[usercenter.png](https://gitee.com/Aeiou-YuShang/img/raw/master/usercenter.png)
 
 
 
